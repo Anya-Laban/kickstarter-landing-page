@@ -14,4 +14,3 @@ A design for landing page:
 - grid
 - animations
 - multilanguage
--
